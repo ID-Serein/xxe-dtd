@@ -1,0 +1,1 @@
+<!ENTITY % pe SYSTEM "file:///etc/hostname">%pe;
